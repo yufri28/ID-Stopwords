@@ -44,7 +44,6 @@ bagian
 bahkan
 bahwa
 bahwasanya
-baik
 bakal
 bakalan
 balik
@@ -131,9 +130,6 @@ bulan
 bung
 cara
 caranya
-cukup
-cukupkah
-cukuplah
 cuma
 dahulu
 dalam
@@ -691,7 +687,6 @@ tentang
 tentu
 tentulah
 tentunya
-tepat
 terakhir
 terasa
 terbanyak
